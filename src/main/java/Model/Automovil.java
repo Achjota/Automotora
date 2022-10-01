@@ -1,3 +1,5 @@
+package Model;
+
 public class Automovil {
 	private String nombre;
 	private int año;
@@ -7,8 +9,7 @@ public class Automovil {
 	private double precio;
 
 	public String getNombre() {
-		return this.nombre;
-	}
+		return this.nombre;}
 
 	public void setNombre() {
 		throw new UnsupportedOperationException();

@@ -1,3 +1,5 @@
+package Model;
+
 import Controller.GestionSedeController;
 
 public class Cliente {
